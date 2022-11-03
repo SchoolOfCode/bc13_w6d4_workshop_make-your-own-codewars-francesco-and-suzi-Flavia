@@ -8,4 +8,6 @@ Return an array with only numbers over 18 in it.
 // 👉 Write the function your CodeWarriors will start with below here:
 export default function IDsInTheQueue (array) {
   // start coding here
+  
 }
+
